@@ -20,4 +20,3 @@ What ties all of this together is a belief that education and research thrive on
 - **B.Sc., Physics (Minor in Math & Stats)** — University of New Brunswick (2013–2016)
 - **B.H.Sc., Radiation Therapy** — University of New Brunswick (2009–2013)
 
-[Download full CV (PDF)]('/assets/docs/CV_Grey_Kuling.pdf')
