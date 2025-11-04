@@ -9,7 +9,7 @@ theme: just-the-docs
 color_scheme: light   # light | dark
 
 # Show your logo in the header (optional)
-logo: "/assets/img/profile_casual.jpg"
+#logo: "/assets/img/profile_casual.jpg"
 
 # Search configuration
 search_enabled: true
@@ -40,3 +40,6 @@ last_edit_time_format: "%b %e, %Y"
 # collections:
 #   research:
 #     output: true
+
+plugins:
+  - jekyll-redirect-from
