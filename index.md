@@ -30,29 +30,17 @@ nav_order: 1
   .clearfix::after{ content: ""; display: block; clear: both; }
 </style>
 
-<img src="{{ 'assets/img/profile_professional3.jpg' | relative_url }}"
+<img src="{{ 'assets/img/profile_casual.jpg' | relative_url }}"
      alt="Profile photo"
      class="about-photo">
 
 <div class="clearfix">
 
-I’m driven by a simple belief: learning should feel human, connected, and 
-supported by tools that understand how people actually grow in knowledge. My 
-work explores how AI can enhance that experience in graduate and medical 
-education, not by automating teaching, but by helping students and educators 
-learn together with more clarity, curiosity, and fairness.\n\n
+  <p>I’m driven by a simple belief: learning should feel human, connected, and supported by tools that understand how people actually grow in knowledge. My work explores how AI can enhance that experience in graduate and medical education, not by automating teaching, but by helping students and educators learn together with more clarity, curiosity, and fairness.</p>
 
-My path has moved through physics, applied mathematics, and medical 
-biophysics, and began in the clinical world of radiation therapy. Those 
-experiences shaped how I think about data, empathy, and the balance between 
-precision and care. Now, as a Curriculum and Research Fellow in Biomedical 
-Informatics at Harvard Medical School, I design AI-powered learning systems 
-that draw on pedagogy and cognitive science to give students useful feedback, help instructors see patterns, and make education more inclusive and reflective.\n\n
+  <p>My path has moved through physics, applied mathematics, and medical biophysics, and began in the clinical world of radiation therapy. Those experiences shaped how I think about data, empathy, and the balance between precision and care. Now, as a Curriculum and Research Fellow in Biomedical Informatics at Harvard Medical School, I design AI powered learning systems that draw on pedagogy and cognitive science to give students useful feedback, help instructors see patterns, and make education more inclusive and reflective.</p>
 
-I care most about transparency, trust, and access, ensuring that technology 
-deepens understanding rather than replacing it. My goal is to help build 
-classrooms where data, insight, and shared curiosity come together to make 
-learning a little more human for everyone.\n\n
+  <p>I care most about transparency, trust, and access, ensuring that technology deepens understanding rather than replacing it. My goal is to help build classrooms where data, insight, and shared curiosity come together to make learning a little more human for everyone.</p>
 
 </div>
 
