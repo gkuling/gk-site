@@ -1,15 +1,15 @@
 # ——— Site basics ———
 title: "Grey Kuling, Ph.D."
 description: "Curriculum & Research Fellow — Harvard Medical School. Research in knowledge tracing, memory architectures, and AI for medical education & clinical risk prediction."
-url: https://gkuling.github.io/gk-site   # ← set to your real Pages URL when known
-baseurl: ""   # if you publish to a project site like /gk-site, set baseurl: "/gk-site"
+url: "https://gkuling.github.io"   # your GitHub Pages domain (no trailing slash)
+baseurl: "/gk-site"                 # your repository project name (with leading slash)
 
 # ——— Theme ———
 theme: just-the-docs
 color_scheme: light   # light | dark
 
 # Show your logo in the header (optional)
-logo: "/assets/img/profile.jpg"
+logo: "/assets/img/profile_casual.jpg"
 
 # Search configuration
 search_enabled: true
