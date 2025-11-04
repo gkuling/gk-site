@@ -4,12 +4,6 @@ title: Teaching & Curriculum
 nav_order: 5
 ---
 
----
-layout: default
-title: Teaching & Curriculum
-nav_order: 5
----
-
 ## Teaching and Curriculum  
 
 Teaching has always been an anchor in my work—an opportunity to translate complex ideas into shared understanding and to help learners connect data, theory, and practice. Across research and education, I aim to make learning environments transparent, inclusive, and evidence-based. My teaching integrates concepts from artificial intelligence, neuroscience, and data science with the human elements of reasoning, feedback, and curiosity.
