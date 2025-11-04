@@ -8,7 +8,7 @@ nav_order: 1
 
 **Curriculum & Research Fellow — Harvard Medical School (DBMI)**
 
-![Profile]({{ '/assets/img/Profile_professional1.png' | relative_url }})
+![Profile]({{ 'assets/img/profile_casual.jpg' | relative_url }})
 
 I’m driven by a simple belief: learning should feel human, connected, and supported by tools that understand how people actually grow in knowledge. My work explores how AI can enhance that experience in graduate and medical education — not by automating teaching, but by helping students and educators learn together with more clarity, curiosity, and fairness.
 
