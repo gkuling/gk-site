@@ -1,6 +1,6 @@
 # ——— Site basics ———
 title: "Grey Kuling, Ph.D."
-description: "Curriculum & Research Fellow — Harvard Medical School. Research in knowledge tracing, memory architectures, and AI for medical education & clinical risk prediction."
+description: "Curriculum & Research Fellow — Harvard Medical School. "
 url: "https://gkuling.github.io"   # your GitHub Pages domain (no trailing slash)
 baseurl: "/gk-site"                 # your repository project name (with leading slash)
 
