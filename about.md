@@ -3,6 +3,7 @@ layout: default
 title: About
 nav_order: 2
 ---
+
 I am a researcher and educator who believes that learning and discovery are most powerful when they remain grounded in the human experience. My work sits at the intersection of artificial intelligence, education, and health, where I study how intelligent systems can support—not replace—expert judgment, pedagogy, and care. Across projects, my focus is on building AI that deepens understanding, strengthens trust, and makes complex processes more visible rather than more opaque.
 
 <style>
@@ -19,7 +20,7 @@ I am a researcher and educator who believes that learning and discovery are most
     .about-photo{
       float: none;
       display: block;
-      width: 70%;
+      width: 55%;
       max-width: 320px;
       margin: 0 auto 1rem auto;
     }
@@ -32,13 +33,7 @@ I am a researcher and educator who believes that learning and discovery are most
      class="about-photo">
 
 <div class="clearfix">
-
-
-
   <p>My academic path has moved through several disciplines that continue to shape how I think about knowledge, responsibility, and impact. I began in radiation therapy, where precision, accountability, and patient trust are non-negotiable. That foundation expanded through training in physics, mathematics, and statistics, where I developed a respect for both the power and fragility of models built on complex data. These experiences ultimately led me to a Ph.D. in Medical Biophysics at the University of Toronto, where my research focused on AI for breast cancer risk prediction. There, I developed methods integrating medical imaging and natural language processing to model longitudinal patient risk, and learned firsthand that meaningful innovation in healthcare AI depends not just on performance, but on interpretability, robustness, and clinical fit.</p>
-
-  <p>My academic path has moved through several disciplines that continue to shape how I think about knowledge, responsibility, and impact. I began in radiation therapy, where precision, accountability, and patient trust are non-negotiable. That foundation expanded through training in physics, mathematics, and statistics, where I developed a respect for both the power and fragility of models built on complex data. These experiences ultimately led me to a Ph.D. in Medical Biophysics at the University of Toronto, where my research focused on AI for breast cancer risk prediction. There, I developed methods integrating medical imaging and natural language processing to model longitudinal patient risk, and learned firsthand that meaningful innovation in healthcare AI depends not just on performance, but on interpretability, robustness, and clinical fit.</p>
-
 </div>
 
 Today, as a Curriculum and Research Fellow in the Department of Biomedical Informatics at Harvard Medical School, my work centers on AI for graduate and medical education. I study how learners acquire, retain, and apply knowledge over time, and how computational models can be designed to reflect those processes more faithfully. Drawing on insights from learning science and neuroscience, I am particularly interested in memory-aware and adaptive learning systems that personalize feedback, surface conceptual structure, and support reflective practice for both students and instructors.
