@@ -3,10 +3,11 @@ layout: default
 title: About
 nav_order: 2
 ---
+I am a researcher and educator who believes that learning and discovery are most powerful when they remain grounded in the human experience. My work sits at the intersection of artificial intelligence, education, and health, where I study how intelligent systems can support—not replace—expert judgment, pedagogy, and care. Across projects, my focus is on building AI that deepens understanding, strengthens trust, and makes complex processes more visible rather than more opaque.
 
 <style>
   .about-photo{
-    float: left;
+    float: right;
     width: 45%;
     max-width: 280px;   /* keeps it about half-size on desktop */
     height: auto;
@@ -32,7 +33,7 @@ nav_order: 2
 
 <div class="clearfix">
 
-  <p>I am a researcher and educator who believes that learning and discovery are most powerful when they remain grounded in the human experience. My work sits at the intersection of artificial intelligence, education, and health, where I study how intelligent systems can support—not replace—expert judgment, pedagogy, and care. Across projects, my focus is on building AI that deepens understanding, strengthens trust, and makes complex processes more visible rather than more opaque.</p>
+
 
   <p>My academic path has moved through several disciplines that continue to shape how I think about knowledge, responsibility, and impact. I began in radiation therapy, where precision, accountability, and patient trust are non-negotiable. That foundation expanded through training in physics, mathematics, and statistics, where I developed a respect for both the power and fragility of models built on complex data. These experiences ultimately led me to a Ph.D. in Medical Biophysics at the University of Toronto, where my research focused on AI for breast cancer risk prediction. There, I developed methods integrating medical imaging and natural language processing to model longitudinal patient risk, and learned firsthand that meaningful innovation in healthcare AI depends not just on performance, but on interpretability, robustness, and clinical fit.</p>
 
