@@ -9,7 +9,7 @@ I am a researcher and educator who believes that learning and discovery are most
 <style>
   .about-photo{
     float: right;
-    width: 45%;
+    width: 33%;
     max-width: 280px;   /* keeps it about half-size on desktop */
     height: auto;
     margin: 0 1rem 1rem 0;
@@ -20,7 +20,7 @@ I am a researcher and educator who believes that learning and discovery are most
     .about-photo{
       float: none;
       display: block;
-      width: 55%;
+      width: 70%;
       max-width: 320px;
       margin: 0 auto 1rem auto;
     }
@@ -29,7 +29,7 @@ I am a researcher and educator who believes that learning and discovery are most
 </style>
 
 <img src="{{ 'assets/img/profile_professional1.jpg' | relative_url }}"
-     alt="Profile photo"
+     alt="Profile photo1"
      class="about-photo">
 
 <div class="clearfix">
