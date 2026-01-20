@@ -12,6 +12,16 @@ I regularly share my work at conferences, symposia, and academic workshops focus
 
 ### 2025  
 
+- **Medical Education Day — Harvard Medical School**  
+  *Boston, MA, USA — December 2025*  
+  **Poster:** *Development of a Canvas-Integrated Generative AI Tool for Syllabus Evaluation and Improvement  
+  Presented a generative feedback platform for faculty syllabus design, aimed at enhancing clarity, inclusivity, and alignment with learning objectives.
+
+- **New England Faculty Development Consortium (Talk/Workshop)** 
+  *Worcester, MA, USA — October 2025*  
+  **Title:** *Scientific Writing and Literature Reviews with LLMs* 
+  Led a workshop on how large language models can support structured academic writing, research synthesis, and critical evaluation while maintaining scholarly integrity.
+
 - **Society for Teaching and Learning in Higher Education (STLHE) Annual Conference**  
   *Saskatoon, SK, Canada — June 2025*  
   **Title:** *Leveraging AI for Automated Short-Answer Grading: An Educational Theory-Guided Approach in Medical Education*  

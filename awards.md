@@ -10,14 +10,6 @@ nav_order: 6
   *Harvard Medical School, 2024–present*  
   Postdoctoral fellowship awarded by the Department of Biomedical Informatics to support curriculum development, educational research, and teaching in AI and medicine.
 
-- **Dean’s Innovation Awards – Internal Project Support**  
-  *Harvard Medical School, 2024–2025*  
-  Supported infrastructure for LLM-based grading systems, PostgreSQL backend integration, and educational data workflows as part of AI-driven curriculum tools.  
-
-- **Canvas Integration and DIA+Ed Infrastructure Support**  
-  *Department of Biomedical Informatics & Educational Technology Group, HMS, 2024–2025*  
-  Awarded access to beta Canvas APIs, LTI consultation, and database resources to support generative AI-based teaching tools.  
-
 - **Medical Education Day Abstract Award**  
   *Harvard Medical School, Boston, MA — October 2024*  
   *Abstract title:* “Development of a Generative Artificial Intelligence Grading and Learning Tool.”  
